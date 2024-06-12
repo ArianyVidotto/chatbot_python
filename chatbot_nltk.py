@@ -2,7 +2,7 @@ import nltk
 import random
 from nltk.chat.util import Chat, reflections
 
-# Baixe os recursos necessários do NLTK (só precisa ser feito uma vez)
+# Baixando os recursos
 nltk.download('punkt')
 nltk.download('wordnet')
 
